@@ -90,7 +90,7 @@ To avoid that, those versions have a Super Friction Fit technology, which mimic 
 
 The 3D files are also available on my Printable account [Xii-Boy Ultra 3D files - Printables](https://www.printables.com/model/1301431-xii-boy-ultra-wii-portable)
 
-You can also find the Xii-Boy Ultra stands in the [stands folder](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Stands) or on my Printables account: [NOT YET, SOON]
+You can also find the Xii-Boy Ultra stands in the [stands folder](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Stands) or on my Printables account: [Xii-Boy Ultra stands - Printables](https://www.printables.com/model/1307105-xii-boy-ultra-stands)
 
 One of them has a slot for the [XiiSBar](https://github.com/Xenii1642/XiiSBar), which allows you to play game with the IR pointer. 
 # Support

@@ -93,6 +93,44 @@ The 3D files are also available on my Printable account [Xii-Boy Ultra 3D files 
 You can also find the Xii-Boy Ultra stands in the [stands folder](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Stands) or on my Printables account: [Xii-Boy Ultra stands - Printables](https://www.printables.com/model/1307105-xii-boy-ultra-stands)
 
 One of them has a slot for the [XiiSBar](https://github.com/Xenii1642/XiiSBar), which allows you to play game with the IR pointer. 
+
+# Software
+Xii-Boy Ultra runs on RVLoader, a wonderful homebrew app made by Aurelio over the BitBuilt forum. However, it needs to be slightly modified for the Xii-Boy Ultra features.
+
+You'll find all the new files in the [Software] section of that repository.
+
+⚠️ Those files are tempoary. They will be included in the next RVLoader update and will be deleted once it's ready. ⚠️
+### [GCPlus2.0Update.hex](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/GCPlus2.0Update.hex)
+This file is used to update the GC+ 2 from [4LayerTech](https://4layertech.com/) with a new version compatible with the Xii-Boy Ultra trigger system.
+To update your GC+ 2.0, simply copy / paste that file in the root of your Xii-Boy Ultra µSD card.
+
+### [boot.dol](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/boot.dol):
+This files is used to add Volume and Brightness over buttons in Gamecube games.
+To add those features, simply drag and replace the original file in `/apps/Nintendont`.
+
+### [hud.elf](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/hud.elf)
+Like boot.dol, this file is used to add Volume and Brightness over buttons in Wii games.
+To add those features, simply drag and replace the original file in `/rvloader/Hiidra/modules`
+
+Once everything has been installed, safety eject your µSD card / Xii-Boy Ultra console.
+Boot it up and go to `Settings` --> `Controller` --> `Firmware Update`
+If everything has been done correctly, your Xii-Boy Ultra should be udpated.
+Set your `Triggers mode` to `Analog` and press `Save Config`
+Reboot your device and go to `Settings` --> `Controller` --> `Buttons Tester`
+You should now see all the buttons and the analog triggers working!
+
+# General Software Setting:
+- In `Power` --> `Charge Settings`, `Battery Capacity` needs to be set at 7000mAh (or the capacity of one cell *2 `3500mAh *2 = 7000mAh`)
+- `Charging Current` should be set at 3520mA
+- `Precharge` and `Termination current` should be set at 128mA
+- `Charge Voltage` should be set at 4200mV
+- In `Misc Settings`, you need to change `Status LED type:` to `Adressable Type B`
+💡Don't change the rest of the Powe settings
+- in `Audio`, `Volume control system` needs to be set to Buttons.
+💡You can adapt all the settings depends on you. I personally set the `Status LED Intensity` to 5 and the `Rumble Intensity` to 60.
+
+💡To test all the features, you should launch a Wii and a GameCube game, to make sure everything is working fine.
+
 # Support
 The Xii-Boy Ultra is only on a BETA revision.
 This means, there could be some mistakes somewhere.

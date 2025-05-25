@@ -97,7 +97,7 @@ One of them has a slot for the [XiiSBar](https://github.com/Xenii1642/XiiSBar), 
 # Software
 Xii-Boy Ultra runs on RVLoader, a wonderful homebrew app made by Aurelio over the BitBuilt forum. However, it needs to be slightly modified for the Xii-Boy Ultra features.
 
-You'll find all the new files in the [Software] section of that repository.
+You'll find all the new files in the [Software](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/Software) section of that repository.
 
 ⚠️ Those files are tempoary. They will be included in the next RVLoader update and will be deleted once it's ready. ⚠️
 ### [GCPlus2.0Update.hex](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/GCPlus2.0Update.hex)

@@ -130,7 +130,7 @@ You should now see all the buttons and the analog triggers working!
 - `Precharge` and `Termination current` should be set at 128mA
 - `Charge Voltage` should be set at 4200mV
 - In `Misc Settings`, you need to change `Status LED type:` to `Adressable Type B`
-💡Don't change the rest of the Powe settings
+💡Don't change the rest of the Power settings
 - in `Audio`, `Volume control system` needs to be set to Buttons.
 💡You can adapt all the settings depends on you. I personally set the `Status LED Intensity` to 5 and the `Rumble Intensity` to 60.
 

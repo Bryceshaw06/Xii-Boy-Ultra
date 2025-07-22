@@ -63,6 +63,7 @@ Here is a list of every settings per board:
 ### [**Xii-Strip (XBU-006)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-Strip.zip)
 - Material: FR4
 - Thickness: 0.8mm
+- Surface finish: ENIG 
 
 ### [**40p Shielded FFC (XBU-007)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Shielded%20FFC.zip)
 - Material: Flex

@@ -1,4 +1,7 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBU-BR-Light.png" width="800"> <img src="Images/XBU-BR-Dark.png" width="1000"> </picture> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Images/XBU-BR-Gradient.png" width="800">
+  <img src="Images/XBU-BR-Gradient.png" width="1000">
+</picture>
 <img src="Images/Mario Sunshine.png" width="400" /> <img src="Images/Zelda-Wind-Waker.png" width="400" /> 
 <img src="Images/Zelda Wind Waker Outside.png" width="400" /> <img src="Images/Mario-Galaxy.png" width="400" /> 
 
